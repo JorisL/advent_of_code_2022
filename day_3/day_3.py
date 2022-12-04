@@ -2,7 +2,6 @@ from __future__ import annotations
 import math
 import functools
 import fire
-import pandas as pd
 
 
 def parse_input(input_file: str) -> list[int]:
