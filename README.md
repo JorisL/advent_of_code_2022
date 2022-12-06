@@ -8,8 +8,8 @@ My solutions to the Advent of Code 2022 puzzles (in Python)
 - day 2: 2 stars
 - day 3: 2 stars
 - day 4: 2 stars
-- day 5:
-- day 6:
+- day 5: 2 stars
+- day 6: 2 stars
 - day 7:
 - day 8:
 - day 9:
