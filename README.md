@@ -11,7 +11,7 @@ My solutions to the Advent of Code 2022 puzzles (in Python 3.10)
 - day 5: 2 stars
 - day 6: 2 stars
 - day 7: 2 stars
-- day 8:
+- day 8: 2 stars
 - day 9:
 - day 10:
 - day 11:
